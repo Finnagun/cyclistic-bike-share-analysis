@@ -1,0 +1,2 @@
+*.dax linguist-language=DAX linguist-detectable=true
+*.m linguist-language=M linguist-detectable=true
